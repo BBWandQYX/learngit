@@ -1,6 +1,0 @@
-Git is a version control software.
-This is the second line.
-This is the third line.
-Git tracks changes.
-5th line.
-6th line.
